@@ -134,7 +134,7 @@
 
 }
 .container h2 span{
-color: #83CD20;
+color: #02315D;
 }
 .container p {
   margin: 0 0 10px;
@@ -320,14 +320,14 @@ h6 {
   --rr-common-black: #000000;
   --rr-common-placeholder: #4A5764;
   --rr-body-primary: #fff;
-  --rr-theme-primary: #83CD20;
+  --rr-theme-primary: #02315D;
   --rr-theme-secondary: #07CBEB;
-  --rr-heading-primary: #034833;
+  --rr-heading-primary: #02315D;
   --rr-text-body: #727272;
   --rr-text-primary: #000;
   --rr-shadow-primary: 0px 30px 60px 0px rgba(0, 15, 32, 0.1);
   --rr-background-gray: #F1F5EB;
-  --rr-background-dark-green: #034833;
+  --rr-background-dark-green: #02315D;
   --rr-border-primary: 1px solid #E3DBD8;
   /**
   @font weight declaration
@@ -2684,7 +2684,7 @@ textarea {
   height: 60px;
   width: 60px;
   border: 1px solid #E3DBD8;
-  background: #034833;
+  background: #02315D;
   border-radius: 50%;
   transition: 0.3s;
 }
@@ -3087,7 +3087,7 @@ textarea {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #034833;
+  background: #02315D;
   opacity: 0.8;
 }
 
@@ -7366,7 +7366,7 @@ body .ui-tooltip {
   margin-bottom: 35px;
 }
 .banner__title span {
-  color: var(--rr-theme-primary);
+  color: #ffffff !important;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .banner__title {
@@ -10630,7 +10630,7 @@ body .ui-tooltip {
   margin-left: 27px;
   margin-right: 19px;
   border-radius: 20px;
-  background-color: #83CD20;
+  background-color: #02315D;
   margin-top: 21px;
 }
 .about-us-2__wrapper-media__counter-title {
@@ -10809,7 +10809,7 @@ body .ui-tooltip {
   }
 }
 .coaching-details__widget-icon {
-  background: #83CD20;
+  background: #02315D;
   display: inline-flex;
   width: 96px;
   height: 96px;
@@ -11169,7 +11169,7 @@ body .ui-tooltip {
   font-size: 22px;
   font-style: normal;
   border-radius: 20px;
-  border: 1px solid #83CD20;
+  border: 1px solid #02315D;
   transition: 0.3s;
 }
 
@@ -12335,7 +12335,7 @@ body .ui-tooltip {
   top: 10px;
   right: 0;
   left: -94px;
-  border: 1px solid #034833;
+  border: 1px solid #02315D;
 }
 .teamdetail__content p {
   font-family: var(--rr-ff-body);
@@ -13788,14 +13788,14 @@ body .ui-tooltip {
   border-top-right-radius: 10px;
   border-bottom-left-radius: 50px;
   border-bottom-right-radius: 15px;
-  background: linear-gradient(90deg, #034833 0%, #034833 38.32%, rgba(3, 72, 51, 0) 99.43%);
+  background: linear-gradient(90deg, #02315D 0%, #02315D 38.32%, rgba(3, 72, 51, 0) 99.43%);
 }
 @media only screen and (min-width: 768px) and (max-width: 992px), only screen and (min-width: 576px) and (max-width: 768px), (max-width: 575px) {
   .ticket-booking-wrapper {
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
     display: inherit;
-    background-color: #034833;
+    background-color: #02315D;
   }
 }
 .ticket-booking-wrapper__from {
@@ -13925,7 +13925,7 @@ body .ui-tooltip {
   margin-bottom: 10px;
 }
 .ticket-booking-wrapper__from .quantity__group .quantity-control {
-  color: #83CD20;
+  color: #02315D;
   font-size: 24px;
   cursor: pointer;
   z-index: 3;
@@ -13944,7 +13944,7 @@ body .ui-tooltip {
   width: 100%;
   padding: 15px;
   font-size: 14px;
-  background: #83CD20;
+  background: #02315D;
   border-radius: 999px;
   color: var(--rr-common-white);
   font-weight: var(--rr-fw-sbold);
@@ -14673,14 +14673,14 @@ body .ui-tooltip {
   color: rgba(3, 72, 51, 0.3);
 }
 .countries__tab li button i {
-  color: #034833;
+  color: #02315D;
   font-style: normal;
   font-weight: 900;
   font-size: 14px;
   line-height: 14px;
 }
 .countries__tab li button.active {
-  color: #034833;
+  color: #02315D;
 }
 .countries__tab-content {
   column-count: 2;
@@ -15540,7 +15540,7 @@ body .ui-tooltip {
   text-align: center;
 }
 .visa-details__widget-icon {
-  background: #83CD20;
+  background: #02315D;
   display: inline-flex;
   width: 96px;
   height: 96px;
@@ -15840,7 +15840,7 @@ body .ui-tooltip {
   transform: rotate(360deg);
 }
 .project-three__single-content {
-  background: #83CD20;
+  background: #02315D;
   position: absolute;
   width: calc(100% - 24px);
   border-radius: 20px;
