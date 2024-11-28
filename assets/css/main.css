@@ -1713,7 +1713,7 @@ textarea {
 }
 
 .gray-bg {
-  background-color: var(--rr-background-gray);
+  background-color: #1A446B;
 }
 
 .dark-green {
@@ -16000,3 +16000,28 @@ body .ui-tooltip {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+.qr{
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.qr img{
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  .qr img{
+    width: 90%;
+  }
+  
+}
+.banner-video{
+
+}
+.banner-video video{
+  width: 100%;
+}
